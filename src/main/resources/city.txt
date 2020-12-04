@@ -1,0 +1,12 @@
+Houston, New York
+Dallas, Austin
+Seattle, Denver
+Dallas, Denver
+Las Vegas, Atlanta
+Miami, Tampa
+Pittsburgh, Laredo
+Austin, Spokane
+Fremont, Denver
+Spokane, Oxnard
+Spokane, Las Vegas
+Aurora, Austin
