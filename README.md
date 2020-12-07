@@ -1,4 +1,4 @@
-a## City Connect
+## City Connect
 City Connect service is built to check connectivity between cities. It is developed using spring boot.
 
 ## Prerequisites
